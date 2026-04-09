@@ -16,7 +16,24 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 ![Tools](https://skillicons.dev/icons?i=github,vscode,linux,figma,html,css,latex&perline=10)
 
 `Jupyter` `Streamlit` `Overleaf` `NumPy` `Pandas`
+
+
 ---
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kishorekumarponnusamy&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarponnusamy&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kishorekumarponnusamy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 
 ## About Me
 
@@ -25,5 +42,26 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 - 💡 Turning social media text into meaningful AI insights
 - ⚡ Fun fact: I work with languages that most AI models struggle with!
 
+---
+## 📫 Connect With Me
+
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rUpbYvIAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-kumar-ponnusamy-309037212/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorep161002@gmail.com)
+
+---
+
+## 📝 Latest Research
+
+| Paper | Venue | Year |
+|-------|-------|------|
+| Hope Speech Detection in Spanish Social Media | IberLEF 2024 | 2024 |
+| Detecting LGBT+ phobia in Mexican Spanish | HOMO-MEX 2024 | 2024 |
+| Sentiment Analysis of Tamil and Tulu | DravidianLangTech 2023 | 2023 |
+| Few-Shot Homotransphobia Detection in Italian | EVALITA 2023 | 2023 |
+| Abusive Comments Detection Tamil & Telugu | SPELLL 2023 | 2023 |
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
+
