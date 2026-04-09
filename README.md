@@ -7,8 +7,15 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 ---
 
 ## 🛠️ Skills
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,linux,figma,latex,html,css&perline=11)
+**NLP & Machine Learning**
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10)
 
+`Transformers` `HuggingFace` `mBERT` `LLMs` `NLTK` `scikit-learn` `SimpleTransformers` `Sentence Transformers`
+
+**Tools & Frameworks**
+![Tools](https://skillicons.dev/icons?i=github,vscode,linux,figma,html,css,latex&perline=10)
+
+`Jupyter` `Streamlit` `Overleaf` `NumPy` `Pandas`
 ---
 
 ## About Me
