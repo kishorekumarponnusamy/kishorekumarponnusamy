@@ -9,12 +9,6 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 ## 🛠️ Skills
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,linux)
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kishorekumarponnusamy&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarponnusamy&layout=compact&theme=tokyonight)
 
 ---
 
