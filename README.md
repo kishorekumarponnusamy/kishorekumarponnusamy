@@ -12,8 +12,9 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kishorep161002&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorep161002&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kishorekumarponnusamy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishorekumarponnusamy&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
