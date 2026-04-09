@@ -7,7 +7,7 @@ NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resourc
 ---
 
 ## 🛠️ Skills
-![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,jupyter,linux,figma,latex,html,css&perline=11)
+![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,vscode,linux,figma,latex,html,css&perline=11)
 
 ---
 
