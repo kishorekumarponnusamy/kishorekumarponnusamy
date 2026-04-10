@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Kishore%20Kumar&fontSize=50&desc=NLP%20Researcher%20|%20Dravidian%20Languages&descSize=20&animation=fadeIn)
-
+<img src="https://raw.githubusercontent.com/kishorekumarponnusamy/kishorekumarponnusamy/master/Github_header.png" width="100%">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kishore+Kumar!+👋;NLP+Researcher;Dravidian+Languages+Specialist;Turning+social+media+into+AI+insights!" alt="Typing SVG" />
 </p>
