@@ -4,10 +4,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kishore+Kumar!+👋;NLP+Researcher;Dravidian+Languages+Specialist;Turning+social+media+into+AI+insights!" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## Hi there, I'm Kishore Kumar! 👋
 
-NLP Researcher | Tamil & Dravidian Languages | Transformers | LLMs | Low-Resource NLP
+Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource Languages | Multilingual Sentiment, Hate Speech & Generative AI Models 
+
+<br clear="right"/>
 
 ---
 
