@@ -109,10 +109,27 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
 
 ---
 ## 📫 Connect With Me
-
+<!--
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rUpbYvIAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-kumar-ponnusamy-309037212/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorep161002@gmail.com)
+-->
+
+<p align="left">
+<a href="https://scholar.google.com/citations?user=rUpbYvIAAAAJ&hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kishore-kumar-ponnusamy-309037212/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kishorep161002@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
 
 ---
 
