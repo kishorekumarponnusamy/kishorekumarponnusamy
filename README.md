@@ -30,8 +30,17 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-master-kishorekumarponnusamys-projects.vercel.app/api?username=kishorekumarponnusamy&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- ![Stats](https://github-readme-stats-git-master-kishorekumarponnusamys-projects.vercel.app/api?username=kishorekumarponnusamy&show_icons=true&theme=tokyonight&hide_border=true) -->
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishorekumarponnusamy&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishorekumarponnusamy&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishorekumarponnusamy&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishorekumarponnusamy&theme=tokyonight" width="32%"/>
+</p>
 ---
 
 
