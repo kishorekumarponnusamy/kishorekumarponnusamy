@@ -49,7 +49,7 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
   <tr>
     <td><b>🔧 Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=github,vscode,jupyter,linux,figma,latex&perline=10"/>
+      <img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,latex&perline=10"/>
       <br>
       <code>Jupyter</code> <code>Streamlit</code> <code>Overleaf</code> <code>NumPy</code> <code>Pandas</code>
     </td>
