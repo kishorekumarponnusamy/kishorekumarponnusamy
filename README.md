@@ -49,7 +49,6 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
       <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logoColor=white"/>
       <img src="https://img.shields.io/badge/LLMs-A855F7?style=flat&logoColor=white"/>
       <img src="https://img.shields.io/badge/mBERT-0077B5?style=flat&logoColor=white"/>
-      <code>HuggingFace</code> <code>Transformers</code> <code>mBERT</code> <code>LLMs</code> <code>NLTK</code> <code>scikit-learn</code> <code>SimpleTransformers</code>
     </td>
   </tr>
   <tr>
@@ -62,7 +61,6 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
       <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <code>Jupyter</code> <code>Streamlit</code> <code>Overleaf</code> <code>NumPy</code> <code>Pandas</code>
     </td>
   </tr>
 </table>
