@@ -57,6 +57,11 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
     <td>
       <img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,latex&perline=10"/>
       <br>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
       <code>Jupyter</code> <code>Streamlit</code> <code>Overleaf</code> <code>NumPy</code> <code>Pandas</code>
     </td>
   </tr>
