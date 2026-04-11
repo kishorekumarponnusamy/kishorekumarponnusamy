@@ -14,6 +14,8 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
 
 ---
 
+
+<!--
 ## 🛠️ Skills
 **NLP & Machine Learning**
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10)
@@ -24,6 +26,35 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
 ![Tools](https://skillicons.dev/icons?i=github,vscode,linux,figma,html,css,latex&perline=10)
 
 `Jupyter` `Streamlit` `Overleaf` `NumPy` `Pandas`
+-->
+
+
+## 🛠️ Skills
+
+<table>
+  <tr>
+    <td><b>👨‍💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,html,css&perline=10"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 ML & NLP</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10"/>
+      <br>
+      <code>HuggingFace</code> <code>Transformers</code> <code>mBERT</code> <code>LLMs</code> <code>NLTK</code> <code>scikit-learn</code> <code>SimpleTransformers</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔧 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github,vscode,jupyter,linux,figma,latex&perline=10"/>
+      <br>
+      <code>Streamlit</code> <code>Overleaf</code> <code>NumPy</code> <code>Pandas</code>
+    </td>
+  </tr>
+</table>
 
 
 ---
