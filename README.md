@@ -43,6 +43,12 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
     <td>
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10"/>
       <br>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLTK-154f3c?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLMs-A855F7?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mBERT-0077B5?style=flat&logoColor=white"/>
       <code>HuggingFace</code> <code>Transformers</code> <code>mBERT</code> <code>LLMs</code> <code>NLTK</code> <code>scikit-learn</code> <code>SimpleTransformers</code>
     </td>
   </tr>
