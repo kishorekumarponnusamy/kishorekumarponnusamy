@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kishorekumarponnusamy/kishorekumarponnusamy/master/Github_header.png" width="100%">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kishore+Kumar!+👋;NLP+Researcher;Dravidian+Languages+Specialist;Turning+social+media+into+AI+insights!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kishore+Kumar!+👋;NLP+Researcher;Research in Low-Resource Languages;Turning+social+media+into+AI+insights!" alt="Typing SVG" />
 </p>
 
 <!--<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
