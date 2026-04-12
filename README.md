@@ -54,7 +54,7 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
   <tr>
     <td><b>🔧 Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=github,vscode,linux,figma,latex&perline=10"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,latex&perline=10"/>
       <br>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
