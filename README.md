@@ -102,7 +102,7 @@ Machine Learning & NLP Researcher | Data Scientist | Research in Low-Resource La
 
 ## About Me
 
-- 🔬 I'm a passionate NLP researcher focused on low-resource Dravidian languages
+- 🔬 I'm a passionate NLP researcher focused on low-resource languages
 - 🌍 Collaborated with researchers across India and Ireland
 - 💡 Turning social media text into meaningful AI insights
 - ⚡ Fun fact: I work with languages that most AI models struggle with!
